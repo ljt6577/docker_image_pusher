@@ -9,4 +9,4 @@ redmine
 registry
 snipe-it
 ubuntu
-
+rustdesk/rustdesk-server:latest
